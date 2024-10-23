@@ -1,5 +1,5 @@
 # About Me:
-TAK-22 💪
+TAK-22 💪 <br>
 I'm a 18 year old full stack jr developer just enjoying to code.
 
 
